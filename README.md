@@ -1,4 +1,4 @@
-# Nike UI Clone
+# Nike UI
 
 This is a simple Nike Store UI built using \*\*React+Vite and which is my first project. The project focuses on frontend design and not responsiveness.
 
